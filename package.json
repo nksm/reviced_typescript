@@ -1,0 +1,17 @@
+{
+  "name": "typescript_prcatice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "tsc": "tsc",
+    "watch": "tsc -w ./",
+    "build": "tsc -p ./",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^2.1.0-dev.20160824"
+  }
+}
